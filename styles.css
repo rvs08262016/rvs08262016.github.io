@@ -1,0 +1,33 @@
+body{
+	background-color:#4747FF;
+}
+#topBarMenu {list-style: none;float:right;}
+#topBarMenu li{
+	float: left;
+	margin: -9px 1em;
+	color: #297CCF;
+}
+#search{
+	border: 2px solid #456879;
+	border-radius: 10px;
+	height 22px;
+	width: 100px;
+}
+#informationContainer {
+	background-color:#4747FF;
+	width: 950px;
+	height: 150px;
+}
+#imageContainer {
+	background-color:#303043;
+	background-image: url(img1.png);
+	background-repeat: no-repeat;
+	background-size: 400px 250px;
+	height: 250px;
+	width: 400px;
+	
+}
+#bottomContainer {
+/*	position: absolute;
+	bottom: 0; */
+}
